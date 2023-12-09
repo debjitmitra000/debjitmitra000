@@ -10,9 +10,9 @@
 
 - 👨‍💻 All of my projects are available at [debjit-mitra-portfolio.netlify.app](debjit-mitra-portfolio.netlify.app)
 
-- 💬 Ask me about **HTML, CSS ,Javascript, C, Python, DSA**
+- 💬 Ask me about **HTML, CSS, Javascript, C, Python, DSA**
 
-- 📫 How to reach me **debjitmitra.serampore@gmail.com**
+- 📫 You can reach me at **debjitmitra.serampore@gmail.com**
 
 - ⚡ Fun fact **Web development is a never-ending learning journey**
 
