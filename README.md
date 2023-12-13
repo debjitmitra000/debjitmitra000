@@ -1,6 +1,6 @@
 ![logo](https://github.com/debjitmitra000/debjitmitra000/blob/main/Banner.png)
 <br>
-<h1 align="center">🙋‍♂️ Hi, I'm Debjit Mitra 🙋‍♂️</h1>
+<h1 align="center">Hi 🙋‍♂️, I'm Debjit Mitra</h1>
 <h3 align="center">💥Creating Digital Magic As A Web Developer💥</h3>
 <br>
 <img align="right" alt="coding" width="400" src="https://github.com/debjitmitra000/debjitmitra000/blob/main/img.svg">
