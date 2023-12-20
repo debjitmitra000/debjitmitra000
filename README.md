@@ -11,7 +11,7 @@
 
 - 🌐 All of my projects are available at [debjit-mitra-portfolio.netlify.app](debjit-mitra-portfolio.netlify.app)
 
-- 🗨️ Ask me about **HTML, CSS, Javascript, C, DSA**
+- 🗨️ Ask me about **HTML, CSS, Tailwind, Javascript, React**
 
 - 📧 You can reach me at **debjitmitra.serampore@gmail.com**
 
@@ -19,15 +19,17 @@
 
 <h3 align="left">Connect With Me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/debjitmitra000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="debjitmitra000" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/debjitmitra000" target="blank"><img align="center" src="https://dmicon.netlify.app/img/LINKEDIN.png" alt="debjitmitra000" width="35PX" /></a>
 </p>
 
 <h3 align="left">Languages And Tools:</h3>
 <p align="left"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40">
-  <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-512.png" alt="HTML5" width="40"/> 
-  <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-512.png" alt="CSS3" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" width="40" height="40"/> </p>
+  <img src="https://dmicon.netlify.app/img/HTML.png" alt="HTML" width="37px" />
+  <img src="https://dmicon.netlify.app/img/CSS.png" alt="CSS" width="37px" />
+  <img src="https://dmicon.netlify.app/img/JS.png" alt="JS" width="40px" />
+  <img src="https://dmicon.netlify.app/img/TAILWIND.png" alt="TAILWIND" width="40px" />
+  <img src="https://dmicon.netlify.app/img/REACT.png" alt="REACT" width="40px" />
+  <img src="https://dmicon.netlify.app/img/C.png" alt="C" width="40px">
 <h3 align="left">Most Used Languages:</h3>
 <p align="left"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=debjitmitra000&show_icons=true&locale=en&layout=compact" alt="debjitmitra000" /></p>
 <br>
