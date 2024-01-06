@@ -38,10 +38,10 @@
 </p>  
 
 <h3 align="left">Most Used Languages:</h3>
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debjitmitra000&langs_count=10&title_color=5271f4&text_color=ffffff&icon_color=00000&bg_color=0d1117&hide_border=false&locale=en&layout=compact&en&custom_title=" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debjitmitra000&langs_count=10&title_color=5271f4&text_color=ffffff&icon_color=00000&bg_color=00000000&hide_border=false&locale=en&layout=compact&en&custom_title=" /></p>
 
 <h3 align="left">Streak:</h3>
-<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=debjitmitra000&stroke=000000&background=0d1117&ring=97AAF9&fire=FCE971&currStreakNum=FCE971&currStreakLabel=ffffff&sideNums=97AAF9&sideLabels=ffffff&dates=0d1117&hide_border=false" /></p>
+<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=debjitmitra000&stroke=000000&background=00000000&ring=97AAF9&fire=FCE971&currStreakNum=FCE971&currStreakLabel=ffffff&sideNums=97AAF9&sideLabels=ffffff&dates=00000000&hide_border=false" /></p>
 <br>
 <h1 align="center">🤗 Welcome 🤗</h1>
 <br>
