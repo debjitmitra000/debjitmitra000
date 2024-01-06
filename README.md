@@ -9,6 +9,7 @@
 <img align="right" alt="coding" width="400" src="https://github.com/debjitmitra000/debjitmitra000/blob/main/img.svg">
 
 <h3 align="left">Introducton:</h3>
+
 - 👨‍💻 I’m currently pursuing a **B.Tech**
 
 - 🖥️ I’m currently studying **Computer Science and Engineering**
