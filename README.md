@@ -34,6 +34,8 @@
   <img src="https://dmicon.netlify.app/img/JS.png" alt="JS" width="40px" />
   <img src="https://dmicon.netlify.app/img/TAILWIND.png" alt="TAILWIND" width="40px" />
   <img src="https://dmicon.netlify.app/img/REACT.png" alt="REACT" width="40px" />
+  <img src="https://dmicon.netlify.app/img/PHP.png" alt="PHP" width="40px">
+  <img src="https://dmicon.netlify.app/img/MYSQL.png" alt="MYSQL" width="40px">
   <img src="https://dmicon.netlify.app/img/C.png" alt="C" width="40px">
 </p>  
 
