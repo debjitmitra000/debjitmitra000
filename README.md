@@ -48,7 +48,6 @@
   <img src="https://dmicon.netlify.app/img/EXPRESS.png" alt="EXPRESS" width="40px" />
   <img src="https://dmicon.netlify.app/img/NODEJS.png" alt="NODEJS" width="40px" />
   <img src="https://dmicon.netlify.app/img/PHP.png" alt="PHP" width="40px" />
-  <img src="https://dmicon.netlify.app/img/MONGODB.png" alt="MONGODB" width="40px" />
 </p>  
 <h4 align="left">DATABASE</h4> 
 <p align="left">
