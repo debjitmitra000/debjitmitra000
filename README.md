@@ -137,7 +137,7 @@ const debjit = {
 </div>
 
 
-<h2 align="left">🏆Trophies</h2>
+<h2 align="left">🏆 Trophies</h2>
 <div align="center">
   <img width="56%" src="https://github-profile-trophy.vercel.app/?username=debjitmitra000&theme=algolia&no-frame=false&row=1&column=4" alt="Trophy">
 </div>
