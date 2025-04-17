@@ -143,7 +143,7 @@ const debjit = {
 </div>
 
 
-<h2 align="left">🚀 Streak Stats</h2>
+<h2 align="left">🚀 Contribution Stats</h2>
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=debjitmitra000&theme=blue_navy&hide_border=false" height="200px" />
   <!-- Activity Graph -->
