@@ -73,7 +73,7 @@ const debjit = {
 
 
 <details open>
-<summary><b>🌐 Frontend</b></summary>
+<summary><b>🖳 Frontend</b></summary>
 <br>
 <p align="left">
   <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></a>
